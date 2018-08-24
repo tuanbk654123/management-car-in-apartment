@@ -1,0 +1,3 @@
+Phần mền quản láy ô tô taị chung cư 
+có các chức năng thêm ô tô, sửa , xóa, vào csdl msql.
+đăng ký vé tháng, vé lượt ....
